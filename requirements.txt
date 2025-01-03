@@ -1,0 +1,6 @@
+langchain
+streamlit
+transformers  # For Hugging Face integration
+huggingface-hub  # To connect to Hugging Face Hub
+langchain-huggingface
+langchain-community
